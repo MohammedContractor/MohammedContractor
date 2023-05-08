@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-![Mohammed's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MohammedContractor&theme=algolia&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedContractor&layout=compact&theme=algolia)](https://github.com/MohammedContractor/github-readme-stats)
+![Mohammed's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MohammedContractor&theme=algolia&show_icons=true) [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammedContractor&layout=compact&theme=algolia)](https://github.com/MohammedContractor/github-readme-stats)
 
 
 [instagram]: https://www.instagram.com/theshadypages/
